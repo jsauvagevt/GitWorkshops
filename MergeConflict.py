@@ -3,5 +3,9 @@
 
 # Each person should change to following line of code:
 
+
 print("This was initially just a simple sentence, but now it still is.");
 print("Hello world, my name is AAAAAAAA and my favorite programming language is BBBBBBBBBBB ");
+print("This was initially just a simple sentence, but now I made it look like code. It doesn't actually matter, but it'll look more familiar this way");
+print("Hello world, my name is jsauvagevt and my favorite programming language is java");
+
